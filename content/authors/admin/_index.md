@@ -29,9 +29,9 @@ bio: My research interests lies in the intersection of machine learning and syst
 
 # Interests to show in About widget
 interests:
-  - Large-scale Machine Learning
+  - Large-scale Machine Learning&System
   - High Performance Computing 
-  - Parallel and Distributed System
+  - Generative AI
 
 # Education to show in About widget
 education:
@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Danmook
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/xhding
@@ -120,6 +120,8 @@ social:
 highlight_name: true
 ---
 
-Xinheng Ding is a fourth-year undergrduate student in the Department of Automation(2010), University of Scicence and Technology of China. Her research interests include large-scale machine learning, deep learning, HPC and their intersection. He is joining HiPDAC, Indiana University Bloomington in Fall 2024 to pursue his PhD degree in Intelligent System Engineering.
+Xinheng Ding is a fourth-year undergrduate student in the Department of Automation(2010), University of Scicence and Technology of China. His research interests include large-scale machine learning, deep learning, HPC and their intersection. 
+
+He is joining HiPDAC, Indiana University Bloomington in August 2024 to pursue his PhD degree in Intelligent System Engineering.
 
 {style="text-align: justify;"}
