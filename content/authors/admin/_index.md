@@ -29,14 +29,14 @@ bio: My research interests lies in the intersection of machine learning and syst
 
 # Interests to show in About widget
 interests:
-  - Large-scale Machine Learning&System
-  - High Performance Computing 
+  - Large-scale Machine Learning
+  - High Performance Computing
   - Generative AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Intelligent System Engineering
+    - course: Ph.D. in Intelligent System Engineering
       institution: Indiana University Bloomington
       year: 2024-
     # - course: MEng in Artificial Intelligence
@@ -44,7 +44,7 @@ education:
     #   year: 2009
     - course: B.E. in Automation
       institution: University of Science and Technology of China
-      year: 2020-2024
+      year: 2020 - 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -108,7 +108,7 @@ social:
     link: https://github.com/Danmook
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/xhding
+    link: https://linkedin.com/in/xhding
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
