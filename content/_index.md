@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'DING'
-date: 2022-10-24
+title: ''
+date: 2024-5-4
 type: landing
 
 sections:
