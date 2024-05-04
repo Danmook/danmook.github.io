@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinheng Theo Ding
+title: Theo Xinheng Ding
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -31,14 +31,14 @@ bio: My research interests lies in the intersection of machine learning and syst
 interests:
   - Large-scale Machine Learning
   - High Performance Computing
-  - Generative AI
+  - Artificial General Intelligence
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Intelligent System Engineering
       institution: Indiana University Bloomington
-      year: 2024-
+      year: 2024 -
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
