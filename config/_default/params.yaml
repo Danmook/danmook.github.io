@@ -97,8 +97,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
-    api_key: ''
+    provider: 'google'
+    api_key: 'https://www.google.com/maps/place/Indiana+University+Bloomington/@39.168249,-86.5255822,17z/data=!3m1!4b1!4m6!3m5!1s0x886c66c26789ad33:0x3499a08bb315d436!8m2!3d39.1682449!4d-86.5230073!16zL20vMDFxcmIy?entry=ttu'
     zoom: 15
 
 # Extensions

@@ -252,9 +252,9 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # coordinates:
-      #   latitude: '37.4275'
-      #   longitude: '-122.1697'  
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -268,8 +268,8 @@ sections:
       #     icon_pack: fas
       #     name: Zoom Me
       #     link: 'https://zoom.com'
-      # # Automatically link email and phone or display as text?
-      # autolink: true
+      # Automatically link email and phone or display as text?
+      autolink: false
       # # Email form provider
       # form:
       #   provider: netlify
