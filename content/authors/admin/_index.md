@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Theo Xinheng Ding
+title: Xinheng Theo Ding
 
 # Name pronunciation (optional)
 name_pronunciation: 
