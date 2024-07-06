@@ -29,14 +29,14 @@ bio: My research interests lies in the intersection of machine learning and syst
 
 # Interests to show in About widget
 interests:
-  - Large-scale Machine Learning
+  - Machine Learning
   - High Performance Computing
   - Artificial General Intelligence
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Intelligent System Engineering
+    - course: Ph.D. in Computer Engineering
       institution: Indiana University Bloomington
       year: 2024 -
     # - course: MEng in Artificial Intelligence
